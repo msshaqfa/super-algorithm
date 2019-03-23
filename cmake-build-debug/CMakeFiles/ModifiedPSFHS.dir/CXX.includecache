@@ -1,0 +1,134 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mahmoud/Desktop/MPSFHS Project/the-modified-psfhs/MPFHS_interface.h
+types.h
+/home/mahmoud/Desktop/MPSFHS Project/the-modified-psfhs/types.h
+MPSFHS.h
+/home/mahmoud/Desktop/MPSFHS Project/the-modified-psfhs/MPSFHS.h
+population.h
+/home/mahmoud/Desktop/MPSFHS Project/the-modified-psfhs/population.h
+MPSFHS.h
+/home/mahmoud/Desktop/MPSFHS Project/the-modified-psfhs/MPSFHS.h
+write_CSV.h
+/home/mahmoud/Desktop/MPSFHS Project/the-modified-psfhs/write_CSV.h
+
+/home/mahmoud/Desktop/MPSFHS Project/the-modified-psfhs/MPSFHS.h
+cmath
+-
+algorithm
+-
+types.h
+/home/mahmoud/Desktop/MPSFHS Project/the-modified-psfhs/types.h
+vectorized_operations.h
+/home/mahmoud/Desktop/MPSFHS Project/the-modified-psfhs/vectorized_operations.h
+MPSFHS.h
+/home/mahmoud/Desktop/MPSFHS Project/the-modified-psfhs/MPSFHS.h
+randomness_generator.h
+/home/mahmoud/Desktop/MPSFHS Project/the-modified-psfhs/randomness_generator.h
+objective.h
+/home/mahmoud/Desktop/MPSFHS Project/the-modified-psfhs/objective.h
+zconf.h
+-
+
+/home/mahmoud/Desktop/MPSFHS Project/the-modified-psfhs/main.cpp
+iostream
+-
+vector
+-
+memory
+-
+types.h
+/home/mahmoud/Desktop/MPSFHS Project/the-modified-psfhs/types.h
+population.h
+/home/mahmoud/Desktop/MPSFHS Project/the-modified-psfhs/population.h
+randomness_generator.h
+/home/mahmoud/Desktop/MPSFHS Project/the-modified-psfhs/randomness_generator.h
+ctime
+-
+cstdlib
+-
+objective.h
+/home/mahmoud/Desktop/MPSFHS Project/the-modified-psfhs/objective.h
+vectorized_operations.h
+/home/mahmoud/Desktop/MPSFHS Project/the-modified-psfhs/vectorized_operations.h
+MPSFHS.h
+/home/mahmoud/Desktop/MPSFHS Project/the-modified-psfhs/MPSFHS.h
+algorithm
+-
+time.h
+-
+MPFHS_interface.h
+/home/mahmoud/Desktop/MPSFHS Project/the-modified-psfhs/MPFHS_interface.h
+write_CSV.h
+/home/mahmoud/Desktop/MPSFHS Project/the-modified-psfhs/write_CSV.h
+
+/home/mahmoud/Desktop/MPSFHS Project/the-modified-psfhs/objective.h
+types.h
+/home/mahmoud/Desktop/MPSFHS Project/the-modified-psfhs/types.h
+math.h
+-
+
+/home/mahmoud/Desktop/MPSFHS Project/the-modified-psfhs/population.h
+types.h
+/home/mahmoud/Desktop/MPSFHS Project/the-modified-psfhs/types.h
+iostream
+-
+vectorized_operations.h
+/home/mahmoud/Desktop/MPSFHS Project/the-modified-psfhs/vectorized_operations.h
+objective.h
+/home/mahmoud/Desktop/MPSFHS Project/the-modified-psfhs/objective.h
+randomness_generator.h
+/home/mahmoud/Desktop/MPSFHS Project/the-modified-psfhs/randomness_generator.h
+cmath
+-
+
+/home/mahmoud/Desktop/MPSFHS Project/the-modified-psfhs/randomness_generator.h
+types.h
+/home/mahmoud/Desktop/MPSFHS Project/the-modified-psfhs/types.h
+time.h
+-
+random
+-
+chrono
+-
+cstdlib
+-
+ctime
+-
+
+/home/mahmoud/Desktop/MPSFHS Project/the-modified-psfhs/types.h
+vector
+-
+string
+-
+iostream
+-
+limits
+-
+memory
+-
+
+/home/mahmoud/Desktop/MPSFHS Project/the-modified-psfhs/vectorized_operations.h
+iostream
+-
+limits
+-
+
+/home/mahmoud/Desktop/MPSFHS Project/the-modified-psfhs/write_CSV.h
+fstream
+-
+iostream
+-
+string
+-
+vector
+-
+types.h
+/home/mahmoud/Desktop/MPSFHS Project/the-modified-psfhs/types.h
+

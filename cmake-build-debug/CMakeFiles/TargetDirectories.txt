@@ -1,0 +1,3 @@
+/home/mahmoud/Desktop/MPSFHS Project/the-modified-psfhs/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/mahmoud/Desktop/MPSFHS Project/the-modified-psfhs/cmake-build-debug/CMakeFiles/ModifiedPSFHS.dir
+/home/mahmoud/Desktop/MPSFHS Project/the-modified-psfhs/cmake-build-debug/CMakeFiles/edit_cache.dir
